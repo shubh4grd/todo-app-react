@@ -46,7 +46,7 @@ addItem(){
 render() {
   return (
     <div className="App">
-      <div>
+      <div className="container">
         Add an item...
         <br />
         <input
